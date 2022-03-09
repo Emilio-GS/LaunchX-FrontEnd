@@ -1,6 +1,4 @@
-# Practicas de Intro a Frontend
-
-Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
+# Practica de Intro a Frontend
 
 Caso: Abogabot
 Descripción: Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
@@ -13,14 +11,3 @@ Al usuario le llegan correos de notificación para saber el avance de su proceso
 La página debe de ser responsive para poderla ver desde el celular.
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-
-- **Practicas**
-	- [Toma de requerimientos](./1.-requerimientos.md)
-    - [Crea tu buyer persona](./2.-buyerPersona.md)
-	- [Publico objetivo](./3.-publicoObjetivo.md)
-	- [Crea tu primer Wireframe UX](./4.-wireframe.md)
-	- [Ahora el UI](./5.-ui.md)
-
-Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
-
-***¡Vámonos hasta el espacio y más allá Explorers!***
