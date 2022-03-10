@@ -1,4 +1,4 @@
-# Practica de Intro a Frontend
+## Solving this example case to build a Proyect
 
 Caso: Abogabot
 
@@ -13,3 +13,4 @@ Descripción:
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+## By Emilio Gómez
