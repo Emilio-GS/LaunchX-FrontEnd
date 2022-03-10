@@ -1,1 +1,3 @@
-## Some of the proyects, i´ve been doing on HTML
+## Some of the proyects, I´ve been doing on HTML
+
+## By Emilio Gómez
