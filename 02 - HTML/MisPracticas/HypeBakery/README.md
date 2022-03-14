@@ -1,10 +1,10 @@
-## Solving this example case to build a Proyect
+## Solving this example case to build a web page
 
 **Caso: Pastelería**
 
 <br>
 
-Descripción:`<br>`
+Descripción:
 
 - El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
 - El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
