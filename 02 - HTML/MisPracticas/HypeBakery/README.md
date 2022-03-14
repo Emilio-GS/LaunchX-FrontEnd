@@ -2,7 +2,6 @@
 
 **Caso: Pastelería**
 
-<br>
 
 Descripción:
 
